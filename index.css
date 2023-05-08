@@ -36,6 +36,7 @@
   /* Darker background-color on hover */
   ul li:hover {
     background: #ddd;
+    border-radius: 5px;
   }
   
   /* When clicked on, add a background color and strike out text */
@@ -79,6 +80,7 @@
     padding: 30px 40px;
     color: rgb(255, 255, 255);
     text-align: center;
+    margin-bottom: 1.2rem;
     border-radius: 5px;
   }
   
